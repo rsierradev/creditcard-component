@@ -1,0 +1,13 @@
+.gold {
+  color: gold;
+}
+.midpxfont {
+  font-size: 15px;
+}
+
+.cardSize {
+  width: 360px;
+  /* height: 80px; */
+  background-color: #19204a;
+  border-radius: 10px;
+}
